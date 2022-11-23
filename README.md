@@ -3,11 +3,9 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m a clever,smart,and bold lady that is currently learning Android Development.
-- 🔭 &nbsp; I’m hard-working, driven, and fearless who isn’t afraid to face a challenge.
+- 🔭 &nbsp; I’m hard-working, and not afraid to face challenges.
 - 🔭 &nbsp; I'm an ex-staff of the bank with three years of working experience as a customer support representative.
-- 😊 &nbsp; Providing  solutions for mobile using cutting edge technologies.
 - 💼 &nbsp; I’m currently actively learning Kotlin.
-- ✍ &nbsp; I write technical articles/contents.
 - 💖 &nbsp; I love adventures, nature and learning.
 - 📫 &nbsp; How to reach me **kemyikpe@gmail.com**
 
