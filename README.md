@@ -22,16 +22,16 @@
 - 📙 &nbsp; Trello | JIRA 
 - 🤝 &nbsp; Slack | Teams
 
-![Profile Views](https://komarev.com/ghpvc/?username=/Kemyikpe&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Kemyikpe&style=flat)
 
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=/Kemyikpe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="/Kemyikpe's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kemyikpe&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Kemyikpe's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=/Kemyikpe&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemyikpe&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
 
 <h3> 🤝🏻 Connect with Me </h3>
