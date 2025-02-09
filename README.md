@@ -2,10 +2,9 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m a clever, smart, and bold lady that is currently learning Android Development.
+- 🔭 &nbsp;I'm a brave, intelligent, and astute woman that works as a QA engineer and is passionate about Android and iOS.
 - 🔭 &nbsp; I’m hard-working, and not afraid to face challenges.
 - 🔭 &nbsp; I'm an ex-staff of the bank with three years of working experience as a customer support representative.
-- 💼 &nbsp; I’m currently actively learning Kotlin.
 - 💖 &nbsp; I love adventures, nature and learning.
 - 📫 &nbsp; How to reach me **kemyikpe@gmail.com**
 
